@@ -1,4 +1,4 @@
-from textnode import TextNode, TextType
+from textnode import TextNode, TextType, text_node_to_html_node
 from htmlnode import HTMLNode
 from leafnode import LeafNode
 from parentnode import ParentNode
@@ -10,8 +10,11 @@ def main():
     node5 = LeafNode(None, "None", None)
     leaf = LeafNode("a", "text", {"href": "google.com", "target": "blank"})
     node6 = ParentNode("p", [leaf])
-    print(node6.to_html())
-
+    node7 = TextNode("this is a link", TextType.LINK, "google.com")
+    node8 = TextNode("this is a image", TextType.IMAGES, "someimage/")
+    myhtml = text_node_to_html_node(node8)
+    print(myhtml.props)
+    
 
 
 main()
