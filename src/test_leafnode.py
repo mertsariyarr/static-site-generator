@@ -22,3 +22,6 @@ class TestLeafNode(unittest.TestCase):
             node.to_html()
         self.assertEqual(str(context.exception), "all leaf nodes must have a value")
         
+
+if __name__ == "__main__":
+    unittest.main()

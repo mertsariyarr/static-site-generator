@@ -10,3 +10,7 @@ class TestExtractMarkdown(unittest.TestCase):
     def test_extract_markdown_links(self):
         matches = extract_markdown_links("This is a text with [to boot dev](google.com) link")
         self.assertListEqual([("to boot dev", "google.com")], matches)
+
+
+if __name__ == "__main__":
+    unittest.main()

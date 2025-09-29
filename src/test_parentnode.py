@@ -43,3 +43,7 @@ class TestParentNode(unittest.TestCase):
         node = ParentNode("div", [LeafNode("b", "text")], {"href": "google.com", "tab": "notab"})
         self.assertEqual(node.__repr__(), "ParentNode(div, children: [LeafNode(b, text, None)], {'href': 'google.com', 'tab': 'notab'})")
         
+
+
+if __name__ == "__main__":
+    unittest.main()
