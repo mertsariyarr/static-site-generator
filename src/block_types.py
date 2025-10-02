@@ -10,7 +10,6 @@ ordered_list
 """
 
 hd = "> list\n> items"
-print(hd)
 
 class BlockType(Enum):
     PARAGRAPH = "paragraph"
