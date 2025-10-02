@@ -51,7 +51,8 @@ def block_to_block_type(block):
     return BlockType.PARAGRAPH
 
 
-print(block_to_block_type(hd))
+if __name__ == "__main__":
+    print(block_to_block_type(hd))
 
 
 
