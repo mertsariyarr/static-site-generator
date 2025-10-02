@@ -24,6 +24,3 @@ This is the same paragraph on a new line
 
 print(markdown_to_blocks(md))
 
-
-if __name__ == "__main__":
-    markdown_to_blocks(md)
