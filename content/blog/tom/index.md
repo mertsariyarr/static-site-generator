@@ -1,61 +1,57 @@
-# Why Glorfindel is More Impressive than Legolas
+# Why Tom Bombadil Was a Mistake
 
 [< Back Home](/)
 
-![Glorfindel image](/images/glorfindel.png)
+![Tom Bombadil image](/images/tom.png)
 
-> "The deeds of Glorfindel shine bright as the morning sun, whilst the feats of others are as the flickering of stars in the night sky."
+> "Old Tom Bombadil is a merry fellow; bright blue his jacket is, and his boots are yellow. Alas, his merry song may not belong in this plot's prolonged confluence."
 
-In J.R.R. Tolkien's legendarium, characterized by its rich tapestry of noble heroes and epic deeds, two Elven luminaries stand out: **Glorfindel**, the stalwart warrior returned from the Halls of Mandos, and **Legolas**, the prince of the Woodland Realm. While both possess grace and valor beyond mortal ken, it is Glorfindel who emerges as the more compelling figure, a beacon of heroism whose legacy spans ages.
+In the vast and intricate weave of J.R.R. Tolkien's legendarium, amidst heroes of renown and tales of high adventure, there exists a curious anomaly: Tom Bombadil. This peculiar figure, whimsical and unfettered by the weight of Middle-earth's burdens, has long been a point of contention among scholars and enthusiasts. While his character exudes charm and mystery, I, as an ancient **Archmage**, must assert that his inclusion in _The Lord of the Rings_ was, unfortunately, a narrative misstep.
+
+_An unpopular opinion, I know._
 
 ## Introduction
 
-With my many years as an **Archmage**, delving into ancient tomes and consulting the wisdom of the stars, I have come to appreciate the dazzling tapestry of Middle-earth and its storied inhabitants. Among them, Glorfindel stands resplendent, his narrative a testament to resilience and might. As we unravel the threads of his tale, let us explore the reasons why this Elf-lord is more impressive than his Woodland counterpart.
+Having traversed the corridors of Tolkien's sprawling world, immersed in its lore, I have come to understand the impact of cohesion and momentum in storytelling. Thus, I find myself compelled to examine Tom Bombadil's role and question the necessity of his presence within the epic saga. As we embark on this critical inquiry, let us consider the reasons why Old Tom's playful presence may be seen as a disruptive force.
 
-## A Hero of Great Renown
+## An Intriguing Yet Disjointed Figure
 
-### The Battle with the Balrog
+### A Divergence from Narrative Flow
 
-While Legolas is famed for his prowess with a bow and his agility upon the battlefield, it is Glorfindel who etched his name into the annals of history with his legendary battle against a Balrog of Morgoth—an encounter both fearsome and fateful:
+Tolkien's epic is known for its meticulous pacing and the gravity of its themes. Enter Tom Bombadil—a character whose frivolity and detachment from worldly events create a jarring contrast within the otherwise cohesive narrative:
 
-1. **A Noble Sacrifice**: In the ancient tales of Gondolin, it was Glorfindel who faced off against the fiery terror during the city's fall, sacrificing himself to secure his people's escape.
-2. **A Victory Remembered**: Even in death, his victory was marked by valor, as he vanquished the Balrog in an epic struggle, ultimately earning a place of honor in the Undying Lands.
+1. **An Unnecessary Interlude**: The encounter with Tom, while quaint and endearing, serves as a temporal diversion that detracts from the urgency of the Fellowship's quest.
+2. **An Outlier in Purpose**: His escapades, while rich in mirth, add little to the central narrative, raising questions about their relevance in the grand design of Middle-earth.
 
-## A Beacon of Power and Wisdom
+## An Enigma that Remains Unresolved
 
-### Return from the Undying Lands
+### A Break from Coherence
 
-Unlike Legolas, whose journey begins in the Third Age, Glorfindel's saga spans millennia, demonstrating his integral role in the grand design of the Eldar and Valar:
+In a tale defined by intricate connections and deeply rooted mythology, Bombadil's inexplicable nature poses a challenge to the narrative's internal logic:
 
-- **The Gift of Rebirth**: Glorfindel's return to Middle-earth after his heroic demise is a profound testament to his worth, as the Valar saw fit to restore him to life, laden with greater wisdom and power.
-- **The Role of a Guide**: Serving as an advisor and protector in Rivendell, his presence provided not only counsel but a formidable bulwark against dark forces.
+- **A Mystery Without Resolution**: Unlike other enigmatic figures whose backstories enrich the tapestry, Tom remains enigmatic, shrouded in mystery that neither advances the plot nor deepens the lore.
+- **A Departure from Tone**: His presence, filled with lighthearted songs and whimsical antics, contrasts sharply with the solemnity and tension that define the rest of the saga.
 
 ```
-print("Glorfindel")
-print("the")
-print("Balrog-Slayer")
+print("Tom")
+print("Bombadil")
+print("A")
+print("Mystery")
 ```
 
-## The Essence of Elven Might
+## A Theme of **Disruption**
 
-### A Paragon of Strength
+### An Element of Distraction
 
-While Legolas enchants with his feats, Glorfindel embodies the quintessential strength and dignity of the Eldar, a figure whose very presence commands respect:
+Tom Bombadil's inclusion inadvertently shifts focus from the pressing matters of Middle-earth, introducing themes that sit uneasily with the narrative's core:
 
-- **Elven Majesty**: Renowned for his radiant aura and golden hair, Glorfindel is described as exuding an aura of light akin to the Valar, a stark contrast to the stealthy, sylvan skill of Thranduil's son.
-- **Fearless Leadership**: His leadership during times of strife underscores a dedication to duty and an unwavering resolve—a guiding light for both Elves and Men.
-
-## Themes of **Enduring** Legacy
-
-### An Impact on the Ages
-
-Though Legolas's deeds are celebrated, Glorfindel's influence is woven directly into the vast narrative of Middle-earth—a bridge connecting its ancient past to its perilous future:
-
-- **A Historical Touchstone**: His legacy casts long shadows over pivotal events, reinforcing the enduring themes of sacrifice and rebirth that resonate throughout the legendarium.
-- **A Luminary of Legend**: Respected and revered in songs, his tale remains an inspiration, an immortal testament to courage—a rarity that transcends time.
+- **A Shift in Focus**: His carefree demeanor and ability to withhold the power of the One Ring, while intriguing, distract from the overarching themes of sacrifice and moral complexity.
+- **A Misstep in Continuity**: His segment, charming as it may be, disrupts the journey's continuous build-up towards the looming confrontation with darkness.
 
 ## Conclusion
 
-As we traverse the storied paths of Middle-earth, it becomes clear that while Legolas presents an appealing portrait of Elven grace, it is Glorfindel who embodies the very essence of heroism in Tolkien's world. His narrative transcends the ages, shining with a brilliance that stands unchallenged by the temporal feats of his peers. As an Archmage who has walked the hallowed halls of history, I assert with unyielding certainty that Glorfindel, the eternal light in the shadowed lands of legend, stands as the more impressive. His story, unparalleled and majestic, continues to inspire those who venture into the realms of fantasy and dare to dream of a time when such heroes strode the Earth.
+As we ponder the manifold wonders and intricacies of Tolkien's world, it is evident that Tom Bombadil, while delightfully unique, was a narrative anomaly—a whimsical reflection in the mirror of Middle-earth's grand narrative. While his character captivates with a certain mystique, it answers questions that were never asked, leaving readers with more enigmas than revelations.
 
-Thus, in the grand council of Middle-earth's champions, let us recognize Glorfindel as a paragon whose legacy remains untarnished—a testament to the timeless grandeur of Tolkien's creation.
+In conclusion, as one who has explored the mythic past of Middle-earth and sought coherence in its storied legacy, I propose that Tom Bombadil, for all his merriment and enigma, was a divergence from the tale's destined path—a curiosity that, while endearing to some, stands as a reminder that even in the most meticulously crafted worlds, not all paths lead to the fulfillment of the quest.
+
+Thus, let us bid farewell to Old Tom with a final song, recognizing both his charm and the discord his presence sowed. For within the hallowed pages of Tolkien's masterpiece, every beat must resonate with purpose, lest the harmony of the tale be lost to idle whimsy.

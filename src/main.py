@@ -1,24 +1,26 @@
-import shutil
 import os
+import shutil
 
-from textnode import TextNode, TextType, text_node_to_html_node
-from htmlnode import HTMLNode
-from leafnode import LeafNode
-from parentnode import ParentNode
-from bring_them_all import *
-static = "/home/mert/static-site-generator/static"
-mypublic = "/home/mert/static-site-generator/public/"
-from copystatic import copier, cleaner
+from copystatic import copy_files_recursive
+from final import generate_pages_recursive
+
+
+dir_path_static = "./static"
+dir_path_public = "./public"
+dir_path_content = "./content"
+template_path = "./template.html"
+
 
 def main():
     print("Deleting public directory...")
-    cleaner(mypublic)
+    if os.path.exists(dir_path_public):
+        shutil.rmtree(dir_path_public)
 
-    print("Copying static files to pub dir.")
-    copier(static, mypublic)
+    print("Copying static files to public directory...")
+    copy_files_recursive(dir_path_static, dir_path_public)
 
-    generate_page(markdown_file_path, template_file_path, dest_path)
+    print("Generating content...")
+    generate_pages_recursive(dir_path_content, template_path, dir_path_public)
 
 
-if __name__ == "__main__":
-    main()
+main()
